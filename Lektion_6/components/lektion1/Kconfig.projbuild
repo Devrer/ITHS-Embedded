@@ -1,0 +1,8 @@
+menu "Lektion 1 Component"
+
+	config EXEMPEL_TEXT
+		string "Min text"
+		default "Hej från lektion 1 "
+		help
+			Använd den här för att ställa vad som ska sägas
+endmenu

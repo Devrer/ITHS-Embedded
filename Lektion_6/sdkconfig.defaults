@@ -1,0 +1,5 @@
+#
+# Flash size
+#
+
+CONFIG_ESPTOOLPY_FLASHSIZE_4MB=y
